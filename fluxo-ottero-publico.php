@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Fluxo Otter Publico
  * Plugin URI: https://www.cyfer.com.br/fluxo-ottero-publico/
- * Description: Fluxo Ottero Publico, tres: testando develop 9
- * Version: 1.8.0
+ * Description: Fluxo Ottero Publico, dois
+ * Version: 1.1.0
  * Author: Cyfer Development
  * Author URI: https://www.cyfer.com.br/
  * Contributors: cyferweb
@@ -19,7 +19,4 @@ if ( ! defined( 'WPINC' ) ) {
     die;
 }
 
-// Testando a branch develop
-// testando se esta com deploy automatico teste final.
-// validacao final
-// analisando branch diferente 9
+// testando deploy automatico
