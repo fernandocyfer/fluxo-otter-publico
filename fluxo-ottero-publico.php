@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Fluxo Otter Publico
  * Plugin URI: https://www.cyfer.com.br/fluxo-ottero-publico/
- * Description: Fluxo Ottero Publico
+ * Description: Segunda versão do plugin para testes
  * Version: 1.0.0
  * Author: Cyfer Development
  * Author URI: https://www.cyfer.com.br/
