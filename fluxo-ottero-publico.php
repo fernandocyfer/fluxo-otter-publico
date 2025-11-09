@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Fluxo Otter Publico
  * Plugin URI: https://www.cyfer.com.br/fluxo-ottero-publico/
- * Description: Testando versão pro do OtterSynca
- * Version: 1.0.1
+ * Description: [Teste 1]
+ * Version: 1.0.2
  * Author: Cyfer Development
  * Author URI: https://www.cyfer.com.br/
  * Contributors: cyferweb
